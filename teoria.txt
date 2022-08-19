@@ -1,0 +1,2 @@
+boostrap se encarga de darle a los sitios la capacidad de ser responsivos
+CDN content delivery network red de distribucion de contenido
